@@ -1,0 +1,98 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/choir/CLionProjects/CS235 Lab 6/Car.h
+string
+-
+sstream
+-
+Car.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Car.h
+
+C:/Users/choir/CLionProjects/CS235 Lab 6/Deque.cpp
+Deque.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Deque.h
+
+C:/Users/choir/CLionProjects/CS235 Lab 6/Deque.h
+string
+-
+sstream
+-
+iostream
+-
+Car.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Car.h
+DequeInterface.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/DequeInterface.h
+
+C:/Users/choir/CLionProjects/CS235 Lab 6/DequeInterface.h
+string
+-
+
+C:/Users/choir/CLionProjects/CS235 Lab 6/Queue.cpp
+Queue.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Queue.h
+
+C:/Users/choir/CLionProjects/CS235 Lab 6/Queue.h
+Deque.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Deque.h
+Car.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Car.h
+
+C:/Users/choir/CLionProjects/CS235 Lab 6/Stack.cpp
+Stack.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Stack.h
+
+C:/Users/choir/CLionProjects/CS235 Lab 6/Stack.h
+Deque.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Deque.h
+Car.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Car.h
+
+C:/Users/choir/CLionProjects/CS235 Lab 6/Station.cpp
+Station.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Station.h
+
+C:/Users/choir/CLionProjects/CS235 Lab 6/Station.h
+Stack.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Stack.h
+Queue.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Queue.h
+Vector.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Vector.h
+Deque.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Deque.h
+Car.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Car.h
+
+C:/Users/choir/CLionProjects/CS235 Lab 6/Vector.cpp
+Vector.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Vector.h
+
+C:/Users/choir/CLionProjects/CS235 Lab 6/Vector.h
+Deque.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Deque.h
+Car.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Car.h
+
+C:/Users/choir/CLionProjects/CS235 Lab 6/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+Deque.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Deque.h
+DequeInterface.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/DequeInterface.h
+Station.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Station.h
+Car.h
+C:/Users/choir/CLionProjects/CS235 Lab 6/Car.h
+
